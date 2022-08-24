@@ -1,5 +1,11 @@
 # Note Taker: 11 Express.js
 
+**Description** 
+ This application uses an Express.js back end and will save and retrieve note data from a JSON file.
+
+ **Accessing repo**
+ go to [my repo](https://github.com/teshome28sara/11-Express-note-taker)
+
 ## My task 
 **As a coding bootcamp student, my assignment was to modify starter code to create an application 
     called Note Taker that can be used to write and save notes. This application  uses an Express.js back end and  saves and retrieves note data from a JSON file.**
@@ -31,3 +37,5 @@ then I am presented with empty fields to enter a new note title and the note’s
   ## Application screenshots 
 
    ![Note taker app landing page](note-taker-homepage.png)
+
+    ![Note taker app ](note-taker.png)
