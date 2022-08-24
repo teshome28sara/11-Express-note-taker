@@ -24,4 +24,10 @@ then that note appears in the right-hand column
 ✔️ When I click on the Write icon in the navigation at the top of the page
 then I am presented with empty fields to enter a new note title and the note’s text in the right-hand column 
 
-## Heroku deployed app URL -->
+## Heroku deployed app URL 
+
+ https://sheltered-waters-51444.herokuapp.com/ deployed to Heroku
+
+  ## Application screenshots 
+
+   ![Note taker app landing page](note-taker-homepage.png)
