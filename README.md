@@ -34,7 +34,7 @@ then I am presented with empty fields to enter a new note title and the note’s
 
  https://sheltered-waters-51444.herokuapp.com/ deployed to Heroku
 
-  ## Application screenshots 
+  ## App screenshots 
 
    ![Note taker app landing page](note-taker-homepage.png)
 
